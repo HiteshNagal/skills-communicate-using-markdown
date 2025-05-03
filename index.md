@@ -7,3 +7,7 @@
   const dateToday = {date: "03-05-2025", format: "dd-mm-yyyy", day: "Saturday"}
   console.log(dateToday.day);
 ```
+## Add a task list
+- [x] Open the browser
+- [x] Launch github.com/skills
+- [ ] Learn github skills
